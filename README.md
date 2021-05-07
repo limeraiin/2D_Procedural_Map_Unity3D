@@ -1,4 +1,4 @@
-# Procedural_Map
+# Procedural Map Generation
 A simple procedurally generated map solution for video games that is inspired by Slay The Spire. All scripts are written in C#. LineRenderer component is used to create dashed lines between the nodes. Box colliders and rigidbodies are used to check whether the nodes are overlapping or not.
 
 
