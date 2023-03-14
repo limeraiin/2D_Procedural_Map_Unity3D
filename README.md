@@ -7,7 +7,5 @@ A simple procedurally generated map solution for video games that is inspired by
 
 Count of the potential parents with multiple children can be controlled via script.
 
-![image](https://user-images.githubusercontent.com/64265868/117486808-cae3ee80-af72-11eb-9af0-b5c584c4a443.png)
-
 
 
